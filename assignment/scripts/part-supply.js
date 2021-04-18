@@ -56,7 +56,7 @@ if(i<0){
 }
 // 8. Rewrite the `for` loop from #6 as a `while` loop.
 console.log('8. Showing supplyChanges with "while" loop');
-let i  = 0
+let i  = 0;
 while(i<=supplyChanges.length){
 let x = supplyChanges[i]
 
